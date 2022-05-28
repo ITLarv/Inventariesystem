@@ -1,4 +1,4 @@
-# counting_furniture (InventarieSystem)
+# InventarieSystem
 
 ## About
 This application is made to keep track off the borrowed furniture and other things that needs to be tracked. This program was made for [LARV](https://larv.org/), and is created to organize furniture for the fair. This program was build for LARV 2022.
